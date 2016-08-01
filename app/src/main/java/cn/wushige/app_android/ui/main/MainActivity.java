@@ -1,4 +1,4 @@
-package cn.wushige.app_android;
+package cn.wushige.app_android.ui.main;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -13,6 +13,16 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import cn.wushige.app_android.R;
+
+/**
+ * <p>
+ *
+ * </p>
+ *
+ * @author wushige
+ * @date 2016-08-01 14:40
+ */
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
